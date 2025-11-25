@@ -22,3 +22,6 @@ Voyago is a sleek and modern travel website built to make discovering destinatio
 HTML, CSS, JavaScript
 
 Fully responsive design for all devices
+
+🌐 Live Host
+
